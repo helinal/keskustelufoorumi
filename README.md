@@ -1,6 +1,8 @@
 # Keskustelusovellus
 
-Valitsin sovelluksen aiheeksi valmiiksi annetun Keskustelusovellus -aiheen. Alla on kuvailtu tulevan sovelluksen toiminta.
+En ole valitettavasti ole ehtinyt toiseen välipalautukseen tekemään mitään sen arvoista, mitä olisi tänne kannattanut pushata. Minulla on ollut odotettua vähemmän aikaa käytettävissä projektin työstämiseen, mutta pyrin kirimään takaisin oikeaan tahtiin kolmanteen välipalautukseen mennessä.
+
+## Tulevan sovelluksen toiminta
 
 Sovelluksessa näkyy keskustelualueita, joista jokaisella on tietty aihe. Alueilla on keskusteluketjuja, jotka muodostuvat viesteistä. Jokainen käyttäjä on peruskäyttäjä tai ylläpitäjä.
 
